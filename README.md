@@ -6,7 +6,7 @@ Still working on it....
 
 ---
 
-# Image Caption 
+## Image Caption 
 
 Image --> Text.
 
@@ -38,8 +38,6 @@ Image --> Text.
 
 **[2].** Zhou Ren, Xiaoyu Wang, Ning Zhang, et al. "**Deep Reinforcement Learning-based Image Captioning with Embedding Reward**".  arXiv:1704.03899v1. [[pdf](https://arxiv.org/pdf/1704.03899v1.pdf)]
 
-
----
 
 ## Image Generator
 
