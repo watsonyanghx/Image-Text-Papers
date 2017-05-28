@@ -1,6 +1,6 @@
 # Image-Text-Papers
 
-Image Caption and Image Generator related papers.
+**Image Caption** and **Image Generator** related papers.
 
 Still working on it....
 
