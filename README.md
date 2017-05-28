@@ -42,14 +42,11 @@ Still working on it....
 
 ## RNN
 
-**[1].** Zhang H, Xu T, Li H, et al. Gregor, Karol, et al. "**DRAW: A recurrent neural network for image generation**". arXiv preprint arXiv:1502.04623 (2015). [[pdf](https://arxiv.org/pdf/1502.04623v2.pdf)]
-
-**[2].** Mansimov, Elman, et al. "**Generating images from captions with attention**". arXiv preprint arXiv:1511.02793 (2015). [[pdf](https://arxiv.org/pdf/1511.02793v2.pdf)]
-
-
-## PixelRNN
-
 **[1].** Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. "**Pixel recurrent neural networks**". arXiv preprint arXiv:1601.06759 (2016). [[pdf](https://arxiv.org/pdf/1601.06759v3.pdf)]
+
+**[2].** Zhang H, Xu T, Li H, et al. Gregor, Karol, et al. "**DRAW: A recurrent neural network for image generation**". arXiv preprint arXiv:1502.04623 (2015). [[pdf](https://arxiv.org/pdf/1502.04623v2.pdf)]
+
+**[3].** Mansimov, Elman, et al. "**Generating images from captions with attention**". arXiv preprint arXiv:1511.02793 (2015). [[pdf](https://arxiv.org/pdf/1511.02793v2.pdf)]
 
 
 ## GAN
