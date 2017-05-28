@@ -54,8 +54,10 @@ Still working on it....
 
 ## GAN
 
-**[1].** Reed S, Akata Z, Yan X, et al. "**Generative adversarial text to image synthesis**". Proceedings of The 33rd International Conference on Machine Learning. 2016, 3. [[pdf](http://proceedings.mlr.press/v48/reed16.pdf)]
+**[1].** Gauthier, Jon. "**Conditional generative adversarial nets for convolutional face generation**". Class Project for Stanford CS231N: Convolutional Neural Networks for Visual Recognition, Winter semester 2014.5 (2014): 2. [[pdf](https://pdfs.semanticscholar.org/42f6/f5454dda99d8989f9814989efd50fe807ee8.pdf)]
 
-**[2].** Zhang H, Xu T, Li H, et al. "**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks**". arXiv preprint arXiv:1612.03242, 2016. [[pdf](https://arxiv.org/pdf/1612.03242.pdf)]
+**[2].** Reed S, Akata Z, Yan X, et al. "**Generative adversarial text to image synthesis**". Proceedings of The 33rd International Conference on Machine Learning. 2016, 3. [[pdf](http://proceedings.mlr.press/v48/reed16.pdf)]
 
-**[3].** Nguyen, Anh, et al. "**Plug & play generative networks: Conditional iterative generation of images in latent space**". arXiv preprint arXiv:1612.00005 (2016). [[pdf](https://arxiv.org/pdf/1612.00005v2.pdf)]
+**[3].** Zhang H, Xu T, Li H, et al. "**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks**". arXiv preprint arXiv:1612.03242, 2016. [[pdf](https://arxiv.org/pdf/1612.03242.pdf)]
+
+**[4].** Nguyen, Anh, et al. "**Plug & play generative networks: Conditional iterative generation of images in latent space**". arXiv preprint arXiv:1612.00005 (2016). [[pdf](https://arxiv.org/pdf/1612.00005v2.pdf)]
