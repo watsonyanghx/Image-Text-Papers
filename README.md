@@ -46,7 +46,7 @@ Image --> Text.
 Text --> Image.
 
 
-## RNN
+### RNN
 
 **[1].** Oord, Aaron van den, Nal Kalchbrenner, and Koray Kavukcuoglu. "**Pixel recurrent neural networks**". arXiv preprint arXiv:1601.06759 (2016). [[pdf](https://arxiv.org/pdf/1601.06759v3.pdf)]
 
