@@ -8,6 +8,9 @@ Still working on it....
 
 # Image Caption 
 
+Image --> Text.
+
+
 ## Survey
 
 **[1].** Bernardi, Raffaella, et al. "**Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures**". J. Artif. Intell. Res.(JAIR) 55 (2016): 409-442. [[pdf](https://www.jair.org/media/4900/live-4900-9139-jair.pdf)]
@@ -39,6 +42,9 @@ Still working on it....
 ---
 
 # Image Generator
+
+Text --> Image.
+
 
 ## RNN
 
