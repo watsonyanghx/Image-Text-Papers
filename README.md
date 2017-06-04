@@ -64,3 +64,5 @@ Text --> Image.
 **[3].** Zhang H, Xu T, Li H, et al. "**StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks**". arXiv preprint arXiv:1612.03242, 2016. [[pdf](https://arxiv.org/pdf/1612.03242.pdf)]
 
 **[4].** Nguyen, Anh, et al. "**Plug & play generative networks: Conditional iterative generation of images in latent space**". arXiv preprint arXiv:1612.00005 (2016). [[pdf](https://arxiv.org/pdf/1612.00005v2.pdf)]
+
+**[5].** Reed, Scott E., et al. "**Learning what and where to draw**". Advances in Neural Information Processing Systems. 2016. [[pdf](http://papers.nips.cc/paper/6111-learning-what-and-where-to-draw.pdf)]
