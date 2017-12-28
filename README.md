@@ -41,9 +41,9 @@ Image --> Text.
 
 - Rennie, Steven J., et al. **Self-critical Sequence Training for Image Captioning.** *CVPR*, 2017. [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)]
 
-- Liu, Siqi, et al. **Improved Image Captioning via Policy Gradient optimization of SPIDEr.** *ICCV*, 2017. [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Improved_Image_Captioning_ICCV_2017_paper.pdf)]
+- Liu, Siqi, et al. **Improved Image Captioning via Policy Gradient optimization of SPIDEr.** *ICCV*, 2017. [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Liu_Improved_Image_Captioning_ICCV_2017_paper.pdf)] [[video](https://www.youtube.com/watch?v=PCGuC4M038E)]
 
-- Zhou Ren, Xiaoyu Wang, Ning Zhang, et al. **Deep Reinforcement Learning-based Image Captioning with Embedding Reward.**  *CVPR*, 2017. [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf)]
+- Zhou Ren, Xiaoyu Wang, Ning Zhang, et al. **Deep Reinforcement Learning-based Image Captioning with Embedding Reward.**  *CVPR*, 2017. [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf)] [[video](https://www.youtube.com/watch?v=iTpImCJRwks)]
 
 
 ---
@@ -65,19 +65,19 @@ Image --> Text.
 
 - Gauthier, Jon. **Conditional generative adversarial nets for convolutional face generation.** Class Project for Stanford CS231N: Convolutional Neural Networks for Visual Recognition, Winter semester 2014.5 (2014): 2. [[pdf](https://pdfs.semanticscholar.org/42f6/f5454dda99d8989f9814989efd50fe807ee8.pdf)]
 
-- Reed S, Akata Z, Yan X, et al. **Generative adversarial text to image synthesis.** *ICML*, 2016. [[pdf](http://proceedings.mlr.press/v48/reed16.pdf)]
+- Reed S, Akata Z, Yan X, et al. **Generative adversarial text to image synthesis.** *ICML*, 2016. [[pdf](http://proceedings.mlr.press/v48/reed16.pdf)] [[Supplementary](proceedings.mlr.press/v48/reed16-supp.zip)]
 
 - Reed, Scott E., et al. **Learning what and where to draw.** *NIPS*, 2016. [[pdf](http://papers.nips.cc/paper/6111-learning-what-and-where-to-draw.pdf)]
 
-- Zhang H, Xu T, Li H, et al. **StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks.**    *ICCV*, 2017. [[pdf](openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_StackGAN_Text_to_ICCV_2017_paper.pdf)]
+- Zhang H, Xu T, Li H, et al. **StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks.**    *ICCV*, 2017. [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_StackGAN_Text_to_ICCV_2017_paper.pdf)] [[video](https://www.youtube.com/watch?v=crI5K4RCZws)]
 
 - Zhang H, Xu T, Li H, et al. **StackGAN++: Realistic Image Synthesis with Stacked Generative Adversarial Networks.** arXiv preprint arXiv:1710.10916, 2017. [[pdf](https://arxiv.org/pdf/1710.10916v1.pdf)]
 
 - Xu, Tao, et al. **AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks.** arXiv preprint arXiv:1711.10485 (2017). [[pdf](https://arxiv.org/abs/1711.10485)]
 
-- Hao Dong, Simiao Yu, Chao Wu, Yike Guo. **Semantic Image Synthesis via Adversarial Learning.** *ICCV*, 2017. [[pdf](openaccess.thecvf.com/content_ICCV_2017/papers/Luo_Deep_Dual_Learning_ICCV_2017_paper.pdf)]
+- Hao Dong, Simiao Yu, Chao Wu, Yike Guo. **Semantic Image Synthesis via Adversarial Learning.** *ICCV*, 2017. [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dong_Semantic_Image_Synthesis_ICCV_2017_paper.pdf)] [[Supplementary](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Dong_Semantic_Image_Synthesis_ICCV_2017_supplemental.pdf)]
 
 - Ayushman, John, et al. **TAC-GAN - Text Conditioned Auxiliary Classifier Generative Adversarial Network
 .** arXiv preprint arXiv:1703.06412, 2017. [[pdf](https://arxiv.org/abs/1703.06412)]
 
-- Nguyen, Anh, et al. **Plug & play generative networks: Conditional iterative generation of images in latent space.** *CVPR*, 2017. [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Nguyen_Plug__Play_CVPR_2017_paper.pdf)]
+- Nguyen, Anh, et al. **Plug & play generative networks: Conditional iterative generation of images in latent space.** *CVPR*, 2017. [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Nguyen_Plug__Play_CVPR_2017_paper.pdf)] [[Supplementary](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Nguyen_Plug__Play_2017_CVPR_supplemental.pdf)]
