@@ -65,7 +65,7 @@ Image --> Text.
 
 - Gauthier, Jon. **Conditional generative adversarial nets for convolutional face generation.** Class Project for Stanford CS231N: Convolutional Neural Networks for Visual Recognition, Winter semester 2014.5 (2014): 2. [[pdf](https://pdfs.semanticscholar.org/42f6/f5454dda99d8989f9814989efd50fe807ee8.pdf)]
 
-- Reed S, Akata Z, Yan X, et al. **Generative adversarial text to image synthesis.** *ICML*, 2016. [[pdf](http://proceedings.mlr.press/v48/reed16.pdf)] [[Supplementary](proceedings.mlr.press/v48/reed16-supp.zip)]
+- Reed S, Akata Z, Yan X, et al. **Generative adversarial text to image synthesis.** *ICML*, 2016. [[pdf](http://proceedings.mlr.press/v48/reed16.pdf)] [[Supplementary](http://proceedings.mlr.press/v48/reed16-supp.zip)]
 
 - Reed, Scott E., et al. **Learning what and where to draw.** *NIPS*, 2016. [[pdf](http://papers.nips.cc/paper/6111-learning-what-and-where-to-draw.pdf)]
 
