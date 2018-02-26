@@ -6,16 +6,14 @@ Still working on it ....
 
 ---
 
-# Image Caption 
-
-Image --> Text.
+# Image Caption (Image --> Text)
 
 
 ## Survey
 
-**[1].** Bernardi, Raffaella, et al. **Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures.** J. Artif. Intell. Res.(JAIR) 55 (2016): 409-442. [[pdf](https://www.jair.org/media/4900/live-4900-9139-jair.pdf)]
+- Bernardi, Raffaella, et al. **Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures.** J. Artif. Intell. Res.(JAIR) 55 (2016): 409-442. [[pdf](https://www.jair.org/media/4900/live-4900-9139-jair.pdf)]
 
-**[2].** Karpathy, Andrej. **CONNECTING IMAGES AND NATURAL LANGUAGE. Diss.** STANFORD UNIVERSITY, 2016. [[pdf](https://pdfs.semanticscholar.org/6271/07c02c2df1366965f11678dd3c4fb14ac9b3.pdf)]
+- Karpathy, Andrej. **CONNECTING IMAGES AND NATURAL LANGUAGE. Diss.** STANFORD UNIVERSITY, 2016. [[pdf](https://pdfs.semanticscholar.org/6271/07c02c2df1366965f11678dd3c4fb14ac9b3.pdf)]
 
 
 ## Visual-semantic Embedding Based
@@ -45,10 +43,14 @@ Image --> Text.
 
 - Zhou Ren, Xiaoyu Wang, Ning Zhang, et al. **Deep Reinforcement Learning-based Image Captioning with Embedding Reward.**  *CVPR*, 2017. [[pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf)] [[video](https://www.youtube.com/watch?v=iTpImCJRwks)]
 
+- Chen T H, Liao Y H, Chuang C Y, et al. **Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner[C].** *ICCV*, 2017. [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chen_Show_Adapt_and_ICCV_2017_paper.pdf)] [[Supplementary](http://openaccess.thecvf.com/content_ICCV_2017/supplemental/Chen_Show_Adapt_and_ICCV_2017_supplemental.pdf)]
+
+- Dai B, Lin D, Urtasun R, et al. **Towards diverse and natural image descriptions via a conditional gan.** *ICCV*, 2017. [[pdf](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Towards_Diverse_and_ICCV_2017_paper.pdf)] [[video](https://www.youtube.com/watch?v=Xnk1bjZCEYo)]
+
 
 ---
 
-# Image Generator (Text --> Image)
+# Image Generation (Text --> Image)
 
 
 ## RNN
